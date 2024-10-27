@@ -12,7 +12,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/Blackwolf4183/ChessBot_ComputerVision">
+  <a href="https://github.com/8Bit-P/ChessBot_ComputerVision">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -21,14 +21,14 @@
   <p align="center">
     Bot for automatic chess playing on <a href="https://chess.com">Chess.com</a>
     <br />
-    <a href="https://github.com/Blackwolf4183/ChessBot_ComputerVision"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/8Bit-P/ChessBot_ComputerVision"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/Blackwolf4183/ChessBot_ComputerVision">View Demo</a>
+    <a href="https://github.com/8Bit-P/ChessBot_ComputerVision">View Demo</a>
     ·
-    <a href="https://github.com/Blackwolf4183/ChessBot_ComputerVision/issues">Report Bug</a>
+    <a href="https://github.com/8Bit-P/ChessBot_ComputerVision/issues">Report Bug</a>
     ·
-    <a href="https://github.com/Blackwolf4183/ChessBot_ComputerVision/issues">Request Feature</a>
+    <a href="https://github.com/8Bit-P/ChessBot_ComputerVision/issues">Request Feature</a>
   </p>
 </div>
 
@@ -91,7 +91,7 @@ This project was solely built with Python and the help of many libraries such as
 
 First of all to get the repo in your local machine you will need to execute
 ```sh
-  git pull https://github.com/Blackwolf4183/ChessBot_ComputerVision.git
+  git pull https://github.com/8Bit-P/ChessBot_ComputerVision.git
   ```
 
 
@@ -170,7 +170,7 @@ Mario García Borrego - [@your_twitter](https://twitter.com/your_username) - mar
 Pablo Pérez Martín - [@your_twitter](https://twitter.com/your_username) - pablopm31715@gmail.com
 
 
-Project Link: [https://github.com/Blackwolf4183/ChessBot_ComputerVision](https://github.com/Blackwolf4183/ChessBot_ComputerVision)
+Project Link: [https://github.com/8Bit-P/ChessBot_ComputerVision](https://github.com/8Bit-P/ChessBot_ComputerVision)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -180,16 +180,16 @@ Project Link: [https://github.com/Blackwolf4183/ChessBot_ComputerVision](https:/
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/Blackwolf4183/ChessBot_ComputerVision?style=for-the-badge
-[contributors-url]: https://github.com/Blackwolf4183/ChessBot_ComputerVision/graphs/contributors
+[contributors-shield]: https://img.shields.io/github/contributors/8Bit-P/ChessBot_ComputerVision?style=for-the-badge
+[contributors-url]: https://github.com/8Bit-P/ChessBot_ComputerVision/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
-[forks-url]: https://github.com/Blackwolf4183/ChessBot_ComputerVision/network/members
-[stars-shield]: https://img.shields.io/github/stars/Blackwolf4183/ChessBot_ComputerVision?style=for-the-badge
-[stars-url]: https://github.com/Blackwolf4183/ChessBot_ComputerVision/stargazers
+[forks-url]: https://github.com/8Bit-P/ChessBot_ComputerVision/network/members
+[stars-shield]: https://img.shields.io/github/stars/8Bit-P/ChessBot_ComputerVision?style=for-the-badge
+[stars-url]: https://github.com/8Bit-P/ChessBot_ComputerVision/stargazers
 [issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/Blackwolf4183/ChessBot_ComputerVision/issues
+[issues-url]: https://github.com/8Bit-P/ChessBot_ComputerVision/issues
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/Blackwolf4183/ChessBot_ComputerVision/blob/master/LICENSE.txt
+[license-url]: https://github.com/8Bit-P/ChessBot_ComputerVision/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew
 [product-screenshot]: images/board.png
